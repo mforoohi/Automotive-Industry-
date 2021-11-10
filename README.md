@@ -1,5 +1,6 @@
-# Car_Dealership
- Group 3 Project is to evaluate the impact COVID 19 had on the automotive sales industry, and uncover sales trends that would lead to maximum profitability for current dealerships in the future.
+# Automotive Industry and covid19 Impact 
+
+ Automotive Industry and covid19 Impact project goal is to evaluate the impact COVID 19 had on the automotive sales industry, and uncover sales trends that would lead to maximum profitability for current dealerships in the future.
  ## Questions for Analysis
  1. What effect did COVID-19 have on consumer habits and behaviors in relation to car buying: brand of car, preferred mode of transport, etc? 
 
